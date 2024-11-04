@@ -1,0 +1,67 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.sec{ 
+    width: 100%;
+    height: 100vh;
+}
+.head1{
+   
+    position: relative;
+    top: 200px;
+    left: 95px;
+    width: 500px;
+}
+h1{
+    font-size: 70px;
+    color: blue;
+}
+p{
+    color: #000;
+    font-size: 30px;
+}
+.box{
+    height: 310px;
+    width: 370px;
+    display: block;
+    border: 1px solid black;
+    position: relative;
+    left: 800px;
+    border-radius: 5px;
+    box-shadow: 2px 2px;
+}
+.box input{
+ width: 320px; 
+ height: 40px; 
+ position: relative; 
+ left: 23px; 
+ border-radius: 5px;
+}
+.bt1{
+ width: 320px; 
+ height: 40px; 
+ background-color:blue;
+ color:white;
+ position: relative; 
+ left: 23px; 
+ border-radius: 5px;
+}
+.box a{
+ position: relative; 
+ color:blue;
+ left:123px;
+}
+.bt2{
+ width: 200px; 
+ height: 40px; 
+ background-color:green;
+ color:white; 
+ position: relative; 
+ left: 85px; 
+ border-radius: 5px;
+}
+.box p{
+ font-size: 17px;
+}
